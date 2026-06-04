@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yovan Patel</h1>
-<h3 align="center">MSc IT Student | Data Science Enthusiast | AI Engineer | Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Yauvan Patel</h1>
+<h3 align="center">Data Science Enthusiast | AI Engineer | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yovan19&label=Profile%20Views&color=0e75b6&style=flat" alt="Yovan19" />
@@ -86,22 +86,6 @@ Become an AI Engineer building intelligent products that solve real-world proble
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yovan19&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yovan19&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yovan19&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📜 Certifications
 
 🏅 Python Programming
@@ -120,11 +104,11 @@ Become an AI Engineer building intelligent products that solve real-world proble
 
 <p align="left">
 <a href="YOUR_LINKEDIN_URL" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+<img align="center" src="www.linkedin.com/in/yovannn" alt="linkedin" height="30" width="40" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="gmail" height="30" width="40" />
+<img align="center" src="yovanpatel482@gmail.com" alt="gmail" height="30" width="40" />
 </a>
 </p>
 
